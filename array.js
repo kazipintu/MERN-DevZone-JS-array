@@ -96,7 +96,7 @@ donationByStudent.pop();
 donationByStudent.pop();
 //console.log(donationByStudent);
 
-/*  ~ add any data in the "start" of an array ~  */
+/*  ~ add any data in the "start" of an array ~  */git push -u origin main
 donationByStudent.unshift('mahabub');
 //console.log(donationByStudent);
 
